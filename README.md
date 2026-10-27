@@ -69,3 +69,8 @@ Featuring three classic games: **Brickrush**, **1024**, and **Snake**.
 
 MIT
 
+---
+
+## Copyright
+
+Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
