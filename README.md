@@ -65,12 +65,6 @@ Featuring three classic games: **Brickrush**, **1024**, and **Snake**.
 4.  Push to branch (`git push origin feature/amazing-feature`).
 5.  Open a Pull Request.
 
-## License
-
-MIT
-
----
-
 ## Copyright
 
 Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
